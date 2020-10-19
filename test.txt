@@ -1,2 +1,2 @@
-add  line from  dev
+add line from dev
 add line from master
